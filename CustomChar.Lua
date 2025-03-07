@@ -1,13 +1,13 @@
 local Tabela = {
 	PlayerPermission = {
-		["KozierNoob123"] = 			{Tier = 5}, -- oi
-		["Fonojonzo"] = 			{Tier = 1000},
-		["ExTnoCraK"] = 			{Tier = 1000},
-		["VigorOGr"] = 				{Tier = 5},
-		["jguuh"] = 				{Tier = 10},
-		["b112014"] = 				{Tier = 5},
-		["ynxvmp"] = 				{Tier = 1},
-		["joseg1999"] = 			{Tier = 10},	
+		["alexgamer13ks"] = 			{Tier = 5}, -- oi
+		["KokuNoCabo"] = 			{Tier = 1000},
+		["kimsalabim"] = 			{Tier = 1000},
+		["ted_impresario"] = 				{Tier = 5},
+		["kilua_poderoso"] = 				{Tier = 10},
+		["jones"] = 				{Tier = 5},
+		["dhdidjdjddu"] = 				{Tier = 1},
+		["sjkdkdjd"] = 			{Tier = 10},	
 		["Renan2809"] = 			{Tier = 5},
 		["NuelNoCra"] = 			{Tier = 2},
 		["Biscoituuh"] = 			{Tier = 5},
